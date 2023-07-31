@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+## Open [https://travel-list9329.netlify.app/](https://travel-list9329.netlify.app/) to view project it in your browser.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
